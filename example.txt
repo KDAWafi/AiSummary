@@ -1,0 +1,26 @@
+We understand lots of people now a days are just impatient, don't read the job spec and just blindly apply for any role on linkedin.
+
+To avoid your application being rejected, here is the reminder of the steps required to complete the application:
+
+This roles requires you to commit to come into office at Pinner, every working day (Monday to Friday) of 8 weeks from 7 July till 29 Aug 2025.
+
+We appreciate you applying for the Software Development role.
+
+Due to overwhelming response from potential candidates to be part of our Trainee programme, we would ask you to complete a short practical exercise.
+
+Please refer to the Trainee Exercise on our github account:
+https://github.com/OpenConsultingUK/trainee-exercise
+
+Please read the README.md carefully.
+
+For the Software Development Exercise you can opt to complete either of these 2 exercise, that relevant to the role you have applied for.
+Cloud-Native
+Python Script
+
+Next steps:
+You are required to create a Private Repo with Solution on Github and
+Share the repo with Github User account: OpenConsulting
+Send an email to cv@OpenConsultingUK.com, stating your github repo name, and your CV attached, this will allow HR team to associates your github account/repo with your CV.
+
+
+Best Regards,

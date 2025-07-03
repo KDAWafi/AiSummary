@@ -1,0 +1,2 @@
+nltk
+openai - v0.28.0
