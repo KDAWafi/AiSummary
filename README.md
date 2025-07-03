@@ -8,9 +8,11 @@ This is a simple text summarization script as part of the OpenConsulting Trainee
 - Scores sentences based on word frequency
 - Returns the top N most relevant sentences as the summary
 
-## How to Run
+## Add your key
 
-## Make sure to add your own OpenAI key
+- Make sure to add your OpenAI API key
+
+## How to Run
 
 ### 1. Clone the repo and set up a virtual environment
 
@@ -18,19 +20,6 @@ This is a simple text summarization script as part of the OpenConsulting Trainee
 python -m venv venv
 venv\Scripts\activate    # On Windows
 pip install -r requirements.txt
+```
 
-## to RUN -
-
-python summarize.py example.txt -n 3
-
-
-example.txt – your input file (can be replaced with any text)
-
--n 3 – number of sentences in the summary
-
-## Dependencies
-
-Python 3.x
-nltk
-
-note - I used Ai to help me create this, as my experiences are C++ and I dont experience using this library.
+- note - I used OpenAI to assist me with developing this main block of code, I did use Ai to help me understand how to create a ton geneartion as I unfamiliar with Ai code, but I tried to implement how Id want it in a simple way.
